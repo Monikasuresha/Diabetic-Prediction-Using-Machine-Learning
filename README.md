@@ -36,7 +36,7 @@ Prediction pipeline using the trained model and scaler
 
 ## 💻 How to Run
 # 1. Clone the Repository
-git clone https://github.com/vandanac20/Diabetes-Prediction-Using-Machine-Learning.git
+git clone  https://monikasuresha.github.io/Diabetic-Prediction-Using-Machine-Learning
 
 cd Diabetes-Prediction-Using-Machine-Learning
 
